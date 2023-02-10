@@ -75,7 +75,7 @@ output: -1
 Explanation:  The target 5 should be inserted at the end of the array at index 0.
 ```
 
-### additional information:
+### Additional information:
 
 1. All the numbers in the array are unique. (No Duplicates)
 2. Array is sorted in the ascending order.
