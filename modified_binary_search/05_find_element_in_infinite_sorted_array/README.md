@@ -4,10 +4,12 @@
 
 Given a sorted array with infinite numbers in ascending order and a number **"target"**. <Br> Write a function that finds the target in the array. If no such target exists, return -1
 
+<Br>
+
 #### **NOTE:**
-* The Array has infinite numbers. This means that the size of the array is unknow.
+* The Array has infinite numbers. This means that the size of the array is unknown.
 * Since it is complicated to simultate an array of infinite size, for the purpose of this example, we will use a `class ValueReader` that has a method `get_value` that accepts an index and returns the element of the array at that index.
- * If the Index is bigger than the array's size then `get_value` returns infinity i.e int.MAX_VALUE
+ * If the Index is bigger than the array's size then `get_value` returns infinity i.e `int.MAX_VALUE`
   ```
    e.g) ValueReader.get_value(index)
   ```
@@ -67,7 +69,7 @@ target: 5
 output: -1 
 Explanation: The target 5 doesn't exist in the array.
 ```
-
+<Br>
 
 ### Additional Information:
 

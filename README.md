@@ -8,3 +8,4 @@ Once we master these patterns, we can solve majority of the algorithm and data s
   3. [Ceil of a Number / Search Insert Position](./modified_binary_search/03_ceil_of_number)
   4. [Search Range / Number Range / First and last position of element in sorted array](./modified_binary_search/04_first_and_last_position_of_element_in_sorted_array)
   5. [Find Element in Infinite Sorted Array](./modified_binary_search/05_find_element_in_infinite_sorted_array)
+  6. [Find the minimum difference element in a sorted array](./modified_binary_search/06_Find_the_minimum_difference_element_in_a_sorted_array)
