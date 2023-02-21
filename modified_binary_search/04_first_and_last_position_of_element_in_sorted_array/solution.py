@@ -19,8 +19,6 @@ def search(arr: list, target: int, find_first_occurence=False):
             start = mid + 1
     return index_of_interest
 
-    [1, 2, 6, 6, 6, 6, 67, 123, 125]
-
 
 def search_range(arr: list, target: int):
     # Write your code here.
